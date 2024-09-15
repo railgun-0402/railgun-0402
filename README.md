@@ -1,28 +1,16 @@
-# Backend Developer in Japan👋
+# Hi👋,I'm railgun-0402
+### Backend Developer in Japan👋
 ### Feel free to contact me anytime!👍
-#
+# My Github Activity!
 ![railgun-0402_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=railgun-0402&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=railgun-0402&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=railgun-0402&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-# NOW TRAINING
-
-<p align="left">
-<a href="https://twitter.com/[railgun-0402]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[railgun-0402]" height="30" width="40" /></a>
-<a href="[railgun-0402_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[railgun-0402_email]"/></a>
-</p>
-
-
-
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
-
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+<img src="https://skillicons.dev/icons?i=typescript,firebase,react,vue,next,mysql,github,vscode,docker,java,ruby,laravel,swift,kotlin,flutter,php,jquery,aws,vite" /> <br /><br />
   
 # NOW TRAINING
 
