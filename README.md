@@ -1,5 +1,4 @@
 # Backend Developer in Japan👋
-### Just 20 years old 
 ### Feel free to contact me anytime!👍
 #
 ![railgun-0402_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=railgun-0402&show_icons=true&theme=vue-dark)
