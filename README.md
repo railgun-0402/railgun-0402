@@ -10,11 +10,11 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=typescript,firebase,react,go,vue,next,mysql,github,vscode,docker,java,ruby,laravel,swift,kotlin,flutter,php,jquery,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,firebase,react,redux,py,selenium,go,vue,next,mysql,postgres,github,vscode,docker,java,ruby,laravel,swift,kotlin,flutter,php,jquery,express,aws,vite,idea,jenkins,tailwind" /> <br /><br />
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,go,mysqlswift,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,rust,deno,kubernetes" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
