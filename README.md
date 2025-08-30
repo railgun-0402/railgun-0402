@@ -19,6 +19,8 @@
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
+# COMMIT
+
 ![](https://raw.githubusercontent.com/railgun-0402/railgun-0402/output/github-contribution-grid-snake.svg)
 
 <br><br><br>
