@@ -2,7 +2,7 @@
 ### Backend Developer in Japan👋
 ### Feel free to contact me anytime!👍
 # My Github Activity!
-![railgun-0402_name's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=railgun-0402&show_icons=true&theme=vue-dark)
+![railgun-0402_name's GitHub stats](https://github-readme-stats-xi-one-31.vercel.app/api?username=railgun-0402&show_icons=true&theme=vue-dark)
 
 
 ![Top Langs](https://github-readme-stats-xi-one-31.vercel.app/api/top-langs?username=railgun-0402&layout=compact&theme=vue-dark)
