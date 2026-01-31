@@ -1,6 +1,11 @@
 # Hi👋,I'm railgun-0402
 ### Backend Developer in Japan👋
 ### Feel free to contact me anytime!👍
+
+> Interests: DDD / Clean Architecture / Event-driven Architecture / Observability / OSS
+> Currently: building side projects & contributing to open source
+
+
 # My Github Activity!
 ![railgun-0402_name's GitHub stats](https://github-readme-stats-xi-one-31.vercel.app/api?username=railgun-0402&show_icons=true&theme=vue-dark)
 
