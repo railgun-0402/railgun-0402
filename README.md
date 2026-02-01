@@ -5,9 +5,14 @@
 > Interests: DDD / Clean Architecture / Event-driven Architecture / Observability / OSS  
 > Currently: building side projects & contributing to open source
 
-## Recent OSS Contributions
-- updatecli: Woodpecker autodiscovery support → PR #7635
-- concourse: validate inline task configs on set-pipeline → PR #9445
+## 🔥 Recent OSS Contributions
+
+- **updatecli** — Woodpecker CI autodiscovery support  
+  [PR #7620](https://github.com/updatecli/updatecli/pull/7620) · ![](https://img.shields.io/badge/PR-7620-blue)
+
+- **concourse** — Validate inline task configs on `set-pipeline`  
+  [PR #9440](https://github.com/concourse/concourse/pull/9440) · ![](https://img.shields.io/badge/PR-9440-blue)
+
 
 ## My GitHub Activity
 ![railgun-0402's GitHub stats](https://github-readme-stats-xi-one-31.vercel.app/api?username=railgun-0402&show_icons=true&theme=vue-dark)
