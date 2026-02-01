@@ -7,11 +7,22 @@
 
 ## 🔥 Recent OSS Contributions
 
-- **updatecli** — Woodpecker CI autodiscovery support  
-  [PR #7620](https://github.com/updatecli/updatecli/pull/7620) · ![](https://img.shields.io/badge/PR-7620-blue)
+- ✅ **updatecli** — helmfile autodiscovery: error on invalid ignore spec  
+  https://github.com/updatecli/updatecli/pull/7620  
+  ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-updatecli-blue) ![](https://img.shields.io/badge/PR-7620-blue)
 
-- **concourse** — Validate inline task configs on `set-pipeline`  
-  [PR #9440](https://github.com/concourse/concourse/pull/9440) · ![](https://img.shields.io/badge/PR-9440-blue)
+- ✅ **concourse** — fly: skip destroy confirmation when pipeline does not exist  
+  https://github.com/concourse/concourse/pull/9440  
+  ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-concourse-blue) ![](https://img.shields.io/badge/PR-9440-blue)
+
+- ✅ **concourse** — use JSON log format for containerd to match Concourse log format  
+  https://github.com/concourse/concourse/pull/9442  
+  ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-concourse-blue) ![](https://img.shields.io/badge/PR-9442-blue)
+
+- 🟡 **updatecli** — add Woodpecker CI plugin (autodiscovery) *(in review)*  
+  https://github.com/updatecli/updatecli/pull/7635  
+  ![](https://img.shields.io/badge/status-open-yellow) ![](https://img.shields.io/badge/repo-updatecli-blue) ![](https://img.shields.io/badge/PR-7635-blue)
+
 
 
 ## My GitHub Activity
