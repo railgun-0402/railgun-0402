@@ -1,27 +1,27 @@
 # Hi 👋 I'm railgun-0402
-### Backend Engineer in Japan 🇯🇵 | Go / Python | AWS |  Architecture & Observability
-### Open-source contributor (updatecli / concourse) — feel free to reach out 👍
+### Backend Engineer in Japan 🇯🇵 | Go / Python | AWS | Architecture & Observability
+### Open-source contributor (rust-analyzer / updatecli / tenv) — feel free to reach out 👍
 
 > Interests: DDD / Clean Architecture / Event-driven Architecture / Observability / OSS  
 > Currently: building side projects & contributing to open source
 
 ## 🔥 Recent OSS Contributions
 
+- 🟡 **rust-analyzer** — Fix asm `sym` operand parsing for parenthesized expr fragments *(in review)*  
+  https://github.com/rust-lang/rust-analyzer/pull/21588  
+  ![](https://img.shields.io/badge/status-open-yellow) ![](https://img.shields.io/badge/repo-rust--analyzer-blue) ![](https://img.shields.io/badge/PR-21588-blue)
+
+- 🟡 **tenv** — feat(detect): add `--no-fallback` option *(in review)*  
+  https://github.com/tofuutils/tenv/pull/539  
+  ![](https://img.shields.io/badge/status-open-yellow) ![](https://img.shields.io/badge/repo-tenv-blue) ![](https://img.shields.io/badge/PR-539-blue)
+
+- ✅ **updatecli** — add Woodpecker CI plugin (autodiscovery)  
+  https://github.com/updatecli/updatecli/pull/7635  
+  ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-updatecli-blue) ![](https://img.shields.io/badge/PR-7635-blue)
+
 - ✅ **updatecli** — helmfile autodiscovery: error on invalid ignore spec  
   https://github.com/updatecli/updatecli/pull/7620  
   ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-updatecli-blue) ![](https://img.shields.io/badge/PR-7620-blue)
-
-- ✅ **concourse** — fly: skip destroy confirmation when pipeline does not exist  
-  https://github.com/concourse/concourse/pull/9440  
-  ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-concourse-blue) ![](https://img.shields.io/badge/PR-9440-blue)
-
-- ✅ **concourse** — use JSON log format for containerd to match Concourse log format  
-  https://github.com/concourse/concourse/pull/9442  
-  ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-concourse-blue) ![](https://img.shields.io/badge/PR-9442-blue)
-
-- 🟡 **updatecli** — add Woodpecker CI plugin (autodiscovery) *(in review)*  
-  https://github.com/updatecli/updatecli/pull/7635  
-  ![](https://img.shields.io/badge/status-open-yellow) ![](https://img.shields.io/badge/repo-updatecli-blue) ![](https://img.shields.io/badge/PR-7635-blue)
 
 
 
