@@ -7,22 +7,21 @@
 
 ## 🔥 Recent OSS Contributions
 
+- 🟡 **Argo CD** — Add "Diff" shortcut on application cards *(in review)*  
+  https://github.com/argoproj/argo-cd/pull/26325  
+  ![](https://img.shields.io/badge/status-open-yellow) ![](https://img.shields.io/badge/repo-argo--cd-blue) ![](https://img.shields.io/badge/PR-26325-blue)
+
 - 🟡 **rust-analyzer** — Fix asm `sym` operand parsing for parenthesized expr fragments *(in review)*  
   https://github.com/rust-lang/rust-analyzer/pull/21588  
   ![](https://img.shields.io/badge/status-open-yellow) ![](https://img.shields.io/badge/repo-rust--analyzer-blue) ![](https://img.shields.io/badge/PR-21588-blue)
-
-- 🟡 **tenv** — feat(detect): add `--no-fallback` option *(in review)*  
-  https://github.com/tofuutils/tenv/pull/539  
-  ![](https://img.shields.io/badge/status-open-yellow) ![](https://img.shields.io/badge/repo-tenv-blue) ![](https://img.shields.io/badge/PR-539-blue)
 
 - ✅ **updatecli** — add Woodpecker CI plugin (autodiscovery)  
   https://github.com/updatecli/updatecli/pull/7635  
   ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-updatecli-blue) ![](https://img.shields.io/badge/PR-7635-blue)
 
-- ✅ **updatecli** — helmfile autodiscovery: error on invalid ignore spec  
-  https://github.com/updatecli/updatecli/pull/7620  
-  ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-updatecli-blue) ![](https://img.shields.io/badge/PR-7620-blue)
-
+- ✅ **concourse** — fly: skip destroy confirmation when pipeline does not exist  
+  https://github.com/concourse/concourse/pull/9440  
+  ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-concourse-blue) ![](https://img.shields.io/badge/PR-9440-blue)
 
 
 ## My GitHub Activity
