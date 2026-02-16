@@ -30,7 +30,7 @@
 ![Top Langs](https://github-readme-stats-xi-one-31.vercel.app/api/top-langs?username=railgun-0402&layout=compact&theme=vue-dark)
 
 ## Skills (Languages / Frameworks / Tools)
-<img src="https://skillicons.dev/icons?i=go,py,typescript,react,next,vue,firebase,mysql,postgres,aws,docker,github,jenkins,vscode,idea,flutter,swift,kotlin" />
+<img src="https://skillicons.dev/icons?i=go,py,typescript,react,next,vue,firebase,mysql,postgres,aws,docker,github,jenkins,vscode,java,flutter,swift,kotlin" />
 <br /><br />
 
 ## Now Learning
