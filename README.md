@@ -11,10 +11,9 @@
   https://github.com/rust-lang/rust-analyzer/pull/21588  
   ![](https://img.shields.io/badge/status-open-yellow) ![](https://img.shields.io/badge/repo-rust--analyzer-blue) ![](https://img.shields.io/badge/PR-21588-blue)
 
-
 - ✅ **k6-operator** —   
   https://github.com/grafana/k6-operator/pull/721  
-  ![](https://img.shields.io/badge/status-open-yellow) ![](https://img.shields.io/badge/repo-k6--operator-blue) ![](https://img.shields.io/badge/PR-721-blue)
+  ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-k6--operator-blue) ![](https://img.shields.io/badge/PR-721-blue)
 
 - ✅ **updatecli** — add Woodpecker CI plugin (autodiscovery)  
   https://github.com/updatecli/updatecli/pull/7635  
