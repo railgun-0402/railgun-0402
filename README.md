@@ -7,7 +7,7 @@
 
 ## 🔥 Recent OSS Contributions
 
-- 🟡 **rust-analyzer** — Fix asm `sym` operand parsing for parenthesized expr fragments *(in review)*  
+- ✅ **rust-analyzer** — Fix asm `sym` operand parsing for parenthesized expr fragments 
   https://github.com/rust-lang/rust-analyzer/pull/21588  
   ![](https://img.shields.io/badge/status-open-yellow) ![](https://img.shields.io/badge/repo-rust--analyzer-blue) ![](https://img.shields.io/badge/PR-21588-blue)
 
