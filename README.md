@@ -12,6 +12,10 @@
   https://github.com/rust-lang/rust-analyzer/pull/21588  
   ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-rust--analyzer-blue) ![](https://img.shields.io/badge/PR-21588-blue)
 
+- ✅ **Grafana Loki** — fix Helm chart so `trafficDistribution` is applied to the SingleBinary service  
+  https://github.com/grafana/loki/pull/20894  
+  ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-grafana--loki-blue) ![](https://img.shields.io/badge/PR-20894-blue)
+
 - ✅ **k6-operator** —   
   https://github.com/grafana/k6-operator/pull/721  
   ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-k6--operator-blue) ![](https://img.shields.io/badge/PR-721-blue)
