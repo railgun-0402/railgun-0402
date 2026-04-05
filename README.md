@@ -17,7 +17,7 @@
   ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-grafana--loki-blue) ![](https://img.shields.io/badge/PR-20894-blue)
 
 - ✅ **k6-operator** —   
-  https://github.com/grafana/k6-operator/pull/721  
+  https://github.com/grafana/k6-operator/pull/721  - add schema validation check
   ![](https://img.shields.io/badge/status-merged-brightgreen) ![](https://img.shields.io/badge/repo-k6--operator-blue) ![](https://img.shields.io/badge/PR-721-blue)
 
 - ✅ **updatecli** — add Woodpecker CI plugin (autodiscovery)  
