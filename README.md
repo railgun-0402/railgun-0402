@@ -1,6 +1,6 @@
 # Hi 👋 I'm railgun-0402
 ### Backend Engineer in Japan 🇯🇵 | Go / Python | AWS | Architecture & Observability
-### Open-source contributor (rust-analyzer / updatecli / tenv) — feel free to reach out 👍
+### Open-source contributor (rust-analyzer / updatecli / tenv) — feel free to reach out! 👍
 
 > Interests: DDD / Clean Architecture / Event-driven Architecture / Observability / OSS  
 > Currently: building side projects & contributing to open source
